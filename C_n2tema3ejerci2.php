@@ -22,7 +22,7 @@
        echo "$alumno- filosofia nota: $valor </br>";
     }*/
     foreach ($x  as $alumno=>$valor){
-        echo "$alumno- filosofia nota: $valor </br>";
+        echo "$alumno- nota: $valor </br>";
      }
     echo "</br>";
     echo "la nota media de cada alumno es : </br>";
